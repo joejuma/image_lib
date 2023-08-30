@@ -22,3 +22,7 @@ Joseph M. Juma
 
 ## Credit
 [1] stb_image: https://github.com/nothings/stb/blob/master/stb_image.h
+
+## License
+This work is provided as-is under the MIT license. To see more, please 
+look at the `LICENSE.md` file.
