@@ -4,6 +4,9 @@
 A very simple library providing helper functions and object-oriented 
 wrapping around part of the stb_image library.
 
+## Status
+This repository is work-in-progress. I've implemented the logic with tests in an internal-only library, but moving that out to this library in a succinct form has been put on the back-burner for now. Update to a fully-working implement is expected in November 2023.
+
 ## Features
 * Importing images of *.png, *.jpg and *.bmp formats.
 * Exporting images to various formats.
